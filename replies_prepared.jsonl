@@ -1,52 +1,101 @@
-{"prompt":"AI still requires understanding what you are putting in and the results given back. It’s only going to 10x any developer using it properly","completion":" 1x eng will become 10x engs ;D"}
-{"prompt":"The biggest machine learning Python libraries are already connected into LangChain... so its like you said, impossible to say how exactly it will change... but it will change a lot in the next 3-5 years.","completion":" ya, the only thing constant is change as they say"}
-{"prompt":"Without purchase parity deals, it's so expensive to buy courses. Even $50 packages take some thought.","completion":" there is parity pricing!"}
-{"prompt":"So excited to get started! Is the release tomorrow, or how will I know when it's ready to consume?","completion":" tomorrow! will send email!"}
-{"prompt":"Just what does 'fundamentals' mean? :) Low-level functioning of computers? Theoretical basis of AI? The takeaway I like the most on 'AI will replace humans' is: > AI will not replace humans. AI will replace humans who do not use AI with humans who do. Exciting time for builders","completion":" Data structure & algos, debugging skills, systems architecture, problem solve etc"}
-{"prompt":"You have a great point when you say that it's impossible to predict what can be automated by AI. An obvious fact that we often forget amidst this craziness. P:Easier to predict what will NOT change.","completion":" only the best"}
-{"prompt":"Pizza and eggs high protein let’s go. What’s your ig I’ll follow","completion":" high protein and carbs ;)"}
-{"prompt":"An MVP breakfast","completion":" only the best"}
-{"prompt":"Making space for free time allows for moments of spontaneity, thus increasing creativity.","completion":" yup, i've found i have the best ideas when im bored"}
-{"prompt":"See you’ve been watching some sam ovens videos","completion":" binged watch all LOL"}
-{"prompt":"Blade Runner 2049 vibes","completion":" i see it"}
-{"prompt":"Is this for real?","completion":" ya, bad fires in canada, the entire city is yellow"}
-{"prompt":"Where can I find the link to join the Discord/Slack?","completion":" it should under the first video!"}
-{"prompt":"In ReAct based agents even if the input context fits, intermediate steps may throw max size limit. Any suggestions on that or alternative?","completion":" can you add extra prompting to make the outputs smaller?"}
-{"prompt":"i asked chatgpt to give me some references and it hallucinated them ! got 404 on all of them. I shouldn't be surprised but i was surprised Tr","completion":" Try again"}
-{"prompt":"Great explanations, thanks!","completion":" glad it helped! :)"}
-{"prompt":"Very useful summary, thanks!","completion":" cognitive psychology this week."}
-{"prompt":"What’s the first subject you are planning to learn?","completion":" this is rlly smart, hire people off upwork like college students. i'm gonna do this"}
-{"prompt":"I used to do this, before chatGPT I would use tutors. You can find some great tutors for like $10 (for example ppl with actual law degrees)","completion":" liking the work tbh otherwise prob would have burnt out, making sure i take mini breaks through the day too"}
-{"prompt":"How do you manage 15hrs a day ?","completion":" thank you good sir!"}
-{"prompt":"Enjoy your rest days!","completion":" Awesome to hear!"}
-{"prompt":"Another great thread, simple understand! Well written","completion":" yeah gotta squint a lil"}
-{"prompt":"the font is surprisingly clear guys","completion":" most of the AI apps can be switched out pretty quick, don't think switching cost will be a factor."}
-{"prompt":"I think switch cost + network effects will play a big role. Thoughts?","completion":" 90% distribution, 10% product :D"}
-{"prompt":"I think that not only finding the right idea is the challenge but rather that distribution will be even more the indicator for success.","completion":" had to use it"}
-{"prompt":"Where is the sock ?","completion":" yes #3 is highly underrated but the most important part for delivering the product"}
-{"prompt":"Cool - the future is here","completion":" very true"}
-{"prompt":"This web-scraping can be blocked by the browser any time correct?","completion":" its pretty"}
-{"prompt":"Great explanation, but still not clear for me if an LLM (eg. gpt-4) gets chat history, user input (both text) and relevant docs ( some similar embed vectors created with an ada model and stored in a vector store), how does it convert embed vectors back and uses it in the context?","completion":" nah proxies and user agents is ezpz pass"}
-{"prompt":"Gold. I am doing something similar in PHP land. One question: Chat History + User Input can easily exceed the token limitation of the LLM(OpenAI API). How do you dynamically solve that?","completion":" will write a thread about this."}
-{"prompt":"Congrats Peter! Love the visualization with the stadiums","completion":" think you need to pre-process the data and summarize it"}
-{"prompt":"I guess getting from 0 to 1000 is the first major huddle","completion":" thank you good sir! :) it's crazy how many ppl 10k are!"}
-{"prompt":"Bro, what kind of templates are you using while explaining the code examples. like you're showing the code but the background is sky blue. what are you using? btw loved this thread. <3","completion":" ya its hard af"}
-{"prompt":"Beast of an informational thread. Great job!","completion":" Appreciate it sir!"}
-{"prompt":"Is this a new fad to stay concentrated and get shit done or something like that ?","completion":" Thank you sir!"}
-{"prompt":"Lot of room to do situps in that room. Good job","completion":" yes"}
-{"prompt":"You releasing a course = Instant Purchase","completion":" the door is long enough to do pull ups too!"}
-{"prompt":"I can guarantee from your Twitter presence you do but I would also caution you a one time sale is great but you need to focus on MRR","completion":" i dont think subscription would do as well but I may be wrong!"}
-{"prompt":"Great visuals!","completion":" Thank you sir"}
-{"prompt":"Enjoy!!","completion":" Yummyyy! :D"}
-{"prompt":"How does it work with multiple users?","completion":" what would be the use-case?"}
-{"prompt":"Wow!, let's give it a try!","completion":" lmk how it goes!"}
-{"prompt":"cool man","completion":" Thank you good sir!"}
-{"prompt":"Wow!, I'll try it. By the way how much money have you made by selling your course. Love it. Its amazing.","completion":" Enough to pay for my daily McDonald runs"}
-{"prompt":"Super congrats Peter","completion":" Thank you Jay!!"}
-{"prompt":"this app has so much potential good luck","completion":" glad you see the potential good sir!"}
-{"prompt":"Bought","completion":" appreciate it! Dm if you have anything in particular you want included in the course."}
-{"prompt":"Hi\n@pwang_szn\n, do you have a Sales letter webpage to ee a bit more about the program?. Thanks","completion":" writing one up today, will send it to ya later"}
-{"prompt":"I’ve just paid half of the mic’s cost","completion":" thank you good sir"}
-{"prompt":"That’s some next level setup !!","completion":" the audio sounded so fking clean"}
-{"prompt":"Sunset from Spain","completion":" sick sunset!!"}
-{"prompt":"Is that pizza gluten free?","completion":" no, extra cheese extra fat"}
+{"prompt":"AI still requires understanding what you are putting in and the results given back. It’s only going to 10x any developer using it properly \n\n###\n\n","completion":" 1x eng will become 10x engs ;D END"}
+{"prompt":"The biggest machine learning Python libraries are already connected into LangChain... so its like you said, impossible to say how exactly it will change... but it will change a lot in the next 3-5 years. \n\n###\n\n","completion":" ya, the only thing constant is change as they say END"}
+{"prompt":"Without purchase parity deals, it's so expensive to buy courses. Even $50 packages take some thought. \n\n###\n\n","completion":" there is parity pricing! END"}
+{"prompt":"So excited to get started! Is the release tomorrow, or how will I know when it's ready to consume? \n\n###\n\n","completion":" tomorrow! will send email! END"}
+{"prompt":"Just what does 'fundamentals' mean? :) Low-level functioning of computers? Theoretical basis of AI? The takeaway I like the most on 'AI will replace humans' is: > AI will not replace humans. AI will replace humans who do not use AI with humans who do. Exciting time for builders \n\n###\n\n","completion":" Data structure & algos, debugging skills, systems architecture, problem solve etc END"}
+{"prompt":"You have a great point when you say that it's impossible to predict what can be automated by AI. An obvious fact that we often forget amidst this craziness. P:Easier to predict what will NOT change. \n\n###\n\n","completion":" only the best END"}
+{"prompt":"Pizza and eggs high protein let’s go. What’s your ig I’ll follow \n\n###\n\n","completion":" high protein and carbs ;) END"}
+{"prompt":"An MVP breakfast \n\n###\n\n","completion":" only the best END"}
+{"prompt":"Making space for free time allows for moments of spontaneity, thus increasing creativity. \n\n###\n\n","completion":" yup, i've found i have the best ideas when im bored END"}
+{"prompt":"See you’ve been watching some sam ovens videos \n\n###\n\n","completion":" binged watch all LOL END"}
+{"prompt":"Blade Runner 2049 vibes \n\n###\n\n","completion":" i see it END"}
+{"prompt":"Is this for real? \n\n###\n\n","completion":" ya, bad fires in canada, the entire city is yellow END"}
+{"prompt":"Where can I find the link to join the Discord/Slack? \n\n###\n\n","completion":" it should under the first video! END"}
+{"prompt":"In ReAct based agents even if the input context fits, intermediate steps may throw max size limit. Any suggestions on that or alternative? \n\n###\n\n","completion":" can you add extra prompting to make the outputs smaller? END"}
+{"prompt":"i asked chatgpt to give me some references and it hallucinated them ! got 404 on all of them. I shouldn't be surprised but i was surprised Tr \n\n###\n\n","completion":" Try again END"}
+{"prompt":"Great explanations, thanks! \n\n###\n\n","completion":" will write a thread about this. END"}
+{"prompt":"Very useful summary, thanks! \n\n###\n\n","completion":" glad it helped! :) END"}
+{"prompt":"What’s the first subject you are planning to learn? \n\n###\n\n","completion":" cognitive psychology this week. END"}
+{"prompt":"I used to do this, before chatGPT I would use tutors. You can find some great tutors for like $10 (for example ppl with actual law degrees) \n\n###\n\n","completion":" this is rlly smart, hire people off upwork like college students. i'm gonna do this END"}
+{"prompt":"How do you manage 15hrs a day ? \n\n###\n\n","completion":" liking the work tbh otherwise prob would have burnt out, making sure i take mini breaks through the day too END"}
+{"prompt":"Enjoy your rest days! \n\n###\n\n","completion":" thank you good sir! END"}
+{"prompt":"Another great thread, simple understand! Well written \n\n###\n\n","completion":" Awesome to hear! END"}
+{"prompt":"the font is surprisingly clear guys \n\n###\n\n","completion":" yeah gotta squint a lil END"}
+{"prompt":"I think switch cost + network effects will play a big role. Thoughts? \n\n###\n\n","completion":" 90% distribution, 10% product :D END"}
+{"prompt":"I think that not only finding the right idea is the challenge but rather that distribution will be even more the indicator for success. \n\n###\n\n","completion":" had to use it END"}
+{"prompt":"Where is the sock ? \n\n###\n\n","completion":" yes #3 is highly underrated but the most important part for delivering the product END"}
+{"prompt":"Cool - the future is here \n\n###\n\n","completion":" very true END"}
+{"prompt":"This web-scraping can be blocked by the browser any time correct? \n\n###\n\n","completion":" nah proxies and user agents is ezpz pass END"}
+{"prompt":"Great explanation, but still not clear for me if an LLM (eg. gpt-4) gets chat history, user input (both text) and relevant docs ( some similar embed vectors created with an ada model and stored in a vector store), how does it convert embed vectors back and uses it in the context? \n\n###\n\n","completion":" nah proxies and user agents is ezpz pass END"}
+{"prompt":"Gold. I am doing something similar in PHP land. One question: Chat History + User Input can easily exceed the token limitation of the LLM(OpenAI API). How do you dynamically solve that? \n\n###\n\n","completion":" will write a thread about this. END"}
+{"prompt":"Congrats Peter! Love the visualization with the stadiums \n\n###\n\n","completion":" think you need to pre-process the data and summarize it END"}
+{"prompt":"I guess getting from 0 to 1000 is the first major huddle \n\n###\n\n","completion":" thank you good sir! :) it's crazy how many ppl 10k are! END"}
+{"prompt":"Bro, what kind of templates are you using while explaining the code examples. like you're showing the code but the background is sky blue. what are you using? btw loved this thread. <3 \n\n###\n\n","completion":" Appreciate it sir! END"}
+{"prompt":"Beast of an informational thread. Great job! \n\n###\n\n","completion":" Appreciate it sir! END"}
+{"prompt":"Is this a new fad to stay concentrated and get shit done or something like that ? \n\n###\n\n","completion":" Thank you sir! END"}
+{"prompt":"Lot of room to do situps in that room. Good job \n\n###\n\n","completion":" yes END"}
+{"prompt":"You releasing a course = Instant Purchase \n\n###\n\n","completion":" the door is long enough to do pull ups too! END"}
+{"prompt":"I can guarantee from your Twitter presence you do but I would also caution you a one time sale is great but you need to focus on MRR \n\n###\n\n","completion":" i dont think subscription would do as well but I may be wrong! END"}
+{"prompt":"Great visuals! \n\n###\n\n","completion":" Thank you sir END"}
+{"prompt":"Enjoy!! \n\n###\n\n","completion":" Yummyyy! :D END"}
+{"prompt":"How does it work with multiple users? \n\n###\n\n","completion":" what would be the use-case? END"}
+{"prompt":"Wow!, let's give it a try! \n\n###\n\n","completion":" lmk how it goes! END"}
+{"prompt":"cool man \n\n###\n\n","completion":" Thank you good sir! END"}
+{"prompt":"Wow!, I'll try it. By the way how much money have you made by selling your course. Love it. Its amazing. \n\n###\n\n","completion":" Enough to pay for my daily McDonald runs END"}
+{"prompt":"Super congrats Peter \n\n###\n\n","completion":" Thank you Jay!! END"}
+{"prompt":"this app has so much potential good luck \n\n###\n\n","completion":" glad you see the potential good sir! END"}
+{"prompt":"Bought \n\n###\n\n","completion":" appreciate it! Dm if you have anything in particular you want included in the course. END"}
+{"prompt":"Hi\n@pwang_szn\n, do you have a Sales letter webpage to ee a bit more about the program?. Thanks \n\n###\n\n","completion":" writing one up today, will send it to ya later END"}
+{"prompt":"I’ve just paid half of the mic’s cost \n\n###\n\n","completion":" thank you good sir END"}
+{"prompt":"That’s some next level setup !! \n\n###\n\n","completion":" the audio sounded so fking clean END"}
+{"prompt":"Sunset from Spain \n\n###\n\n","completion":" sick sunset!! END"}
+{"prompt":"Is that pizza gluten free? \n\n###\n\n","completion":" no, extra cheese extra fat END"}
+{"prompt":"Is that what I think it is?\n\n###\n\n","completion":" it is sirEND"}
+{"prompt":"Mercury\n\n###\n\n","completion":" the card is so lightEND"}
+{"prompt":"I’ve just paid half of the mic’s cost\n\n###\n\n","completion":" thank you good sirEND"}
+{"prompt":"That’s some next level setup !!\n\n###\n\n","completion":" the audio sounded so fking cleanEND"}
+{"prompt":"I’d argue, anywhere scalable? What’s the bottleneck nobody is seeing here?\n\n###\n\n","completion":" which bottleneck do you see?END"}
+{"prompt":"Wow, this look interesting! what about tokens? and is it slow? Wondering in term of scalability \n\n###\n\n","completion":" its scalable. not too many tokens :DEND"}
+{"prompt":"Thank you for sharing! love your updates!\n\n###\n\n","completion":" Thanks!! what do you want to see more of?END"}
+{"prompt":"i started using my iphone mic to talk in textbox inputs instead of type\n\n###\n\n","completion":" gonna be building this into future appsEND"}
+{"prompt":"Fastest voice to text tool/service?\n\n###\n\n","completion":"  openai whisper is very goodEND"}
+{"prompt":"I'm such a sucker for photos like this.\n\n###\n\n","completion":" aesthetic devsEND"}
+{"prompt":"Having spent 15 hours learning Langchain in the last week, I can say with certainty that this is not all you need\n\n###\n\n","completion":" Which big concepts are missing?END"}
+{"prompt":"Bro, give me the resources to learn , please anyone...\n\n###\n\n","completion":" The docs are super good! https://python.langchain.com/en/latest/getting_started/getting_started.html Also, if you need a video guide: http://buildfastcourse.comEND"}
+{"prompt":"Degen on a whole new level\n\n###\n\n","completion":" it’s serious workEND"}
+{"prompt":"How much did YCombinator invest in this?\n\n###\n\n","completion":" not enoughEND"}
+{"prompt":"Looking forward to the course launch!.What would you say is the minimum technical knowledge/ability threshold to understand and be able to apply the lessons? Would it be useful to a non-programmer, or someone with basic, limited coding skills? \n\n###\n\n","completion":" some basic python knowledge, i would go through this course https://automatetheboringstuff.com (free and the book i used to start coding 8 years ago!)END"}
+{"prompt":"Just bought! Too much ignorance risk not to invest in learning how to build these products.\n\n###\n\n","completion":" exactly!! it's gonna be  litEND"}
+{"prompt":"which tool are you using to record?\n\n###\n\n","completion":" https://twitter.com/screenstudioEND"}
+{"prompt":"That's cool, it could make a Saas no?\n\n###\n\n","completion":" gonna open-source it, someone else can make it a saas thou ;)END"}
+{"prompt":"Congrats! Do you have any sample videos (not from the course) that you might have shared in the past?\n\n###\n\n","completion":" haven't made any video tutorials yet, planning to make youtube next month!END"}
+{"prompt":"what are you selling?\n\n###\n\n","completion":" Course teaching how to build AI projects (http://buildfastcourse.com)END"}
+{"prompt":"You wouldn’t have cracked 10 sales at a $89 price point.Always end in a 7 \n\n###\n\n","completion":"  the magic numberEND"}
+{"prompt":"congrats buddy! that's how it's done correctly\n\n###\n\n","completion":" thank you good sir!END"}
+{"prompt":"Selling my house now.\n\n###\n\n","completion":"  all in and you may have enough to buy 2 moreEND"}
+{"prompt":"yo i'm in\n\n###\n\n","completion":"  it'll be tight, but think we can squeeze you in Jacky!\n gonna ping @sequoia to see if we can drop their equity a few points to fit ya in!END"}
+{"prompt":"Lol this is amazing\n\n###\n\n","completion":" glad it helped!END"}
+{"prompt":"Dude are you kidding me? I'd buy you a cofee!\n\n###\n\n","completion":" love me some free coffee ;)END"}
+{"prompt":"This is a great tool to kick start work on opensource public projects, great work\n\n###\n\n","completion":"  glad it helped! lmk what you build!END"}
+{"prompt":" Now to take it one further, let each GitHub repo have its own namespace. And each query should allow the selection of multiple namespaces (to bring in multiple repos for a specific query)\n\n###\n\n","completion":" this would be cool! adding this to my notes!END"}
+{"prompt":"Hahahaj crazy man. Definitely checking how this product grows\n\n###\n\n","completion":"  Thnx for the support manEND"}
+{"prompt":"Never had a pet. That's my problem maybe \n\n###\n\n","completion":" we found the problemEND"}
+{"prompt":"Right on Peter, looking forward to see it\n\n###\n\n","completion":" it’ll either go viral or fall flat, no inbetween END"}
+{"prompt":"I'll be there protecting you, Peter. Good luck with it!\n\n###\n\n","completion":" thanks u serEND"}
+{"prompt":"I’d imagine it would be approved in the google play store\n\n###\n\n","completion":" google store will let anything with a pulse inEND"}
+{"prompt":"It helps a lot in figuring things out and making it work. I built a very small game using ChatGPT in just 2 hours\n\n###\n\n","completion":" yooo shoot the linkEND"}
+{"prompt":"Awesome, maybe if you integrate this with SemRush you can see exactly what keywords you need to boost the SEO, and where they can be added\n\n###\n\n","completion":" will try thisEND"}
+{"prompt":"Wish i had plugins. Payin for plus didnt help lol\n\n###\n\n","completion":" yeah its a bit unfair who they do/don't let inEND"}
+{"prompt":"Tbh your handwriting is still better than mine\n\n###\n\n","completion":"  I've gradually noticed it improving... but its still horrendousEND"}
+{"prompt":"I have to say I am surprised you use handwriting! Do you enjoy it more? Is it more efficient, what’s the secret?\n\n###\n\n","completion":" The physical movement and going slower helps you learnEND"}
+{"prompt":"I think focus on TikTok influencers its where your audience is young nerd teen boys\nPeople don't take flyers too seriously same case with coding as side projects instead whatever you code add it as a feature\n\n###\n\n","completion":" Ya! Going to try it all and let you guys know what works.END"}
+{"prompt":"Tell me more about “coding as marketing\n\n###\n\n","completion":" making viral products and cross promote your main productEND"}
+{"prompt":"What plugin are you going to create?\n\n###\n\n","completion":" I wanna build something to automate ordering on Doordash hahaEND"}
+{"prompt":"Congrats Peter It's a really great opportunity\n\n###\n\n","completion":" Any cool plugin ideas?END"}
+{"prompt":"Love following your journey bro\n\n###\n\n","completion":" Appreciate the support HoytEND"}
+{"prompt":"cmon bro programming is not even in the list\n\n###\n\n","completion":"  been coding for a decade, focusing on other skills now :)END"}
+{"prompt":"Shut up and take my gym membership money!\n\n###\n\n","completion":" we are fighting against #BigFitnessEND"}
+{"prompt":"Thanks for the laugh, I doubt it'll work out tho (as a business)\n\n###\n\n","completion":" amazing pun. \nhopefully you're proven wrong ;)END"}
+{"prompt":"Great job on creating a unique and fun product that encourages people to pursue their fitness goals and boost their dating confidence!\nWishing you all the success with Tinder Glowup.\n\n###\n\n","completion":" Omg, thanks for the kind words UjvalEND"}
+{"prompt":"it looks awesome!\n\n###\n\n","completion":" Thanks André!! busted my ass the last day to get it all ready END"}
+{"prompt":"Awesome Peter, let's goo!\n\n###\n\n","completion":" Thanks Phillip!! It was a fun one, planning to do more of these END"}
