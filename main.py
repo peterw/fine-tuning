@@ -25,4 +25,4 @@ if comment:
     st.success("Generated Response")
     st.text_area("Response:", response, height=200)
 else:
-    st.warning("Please Enter a Comment to generate reply")
+    st.info("Please Enter a Comment to generate reply")
