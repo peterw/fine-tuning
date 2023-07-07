@@ -1,0 +1,445 @@
+T: It's finally happened..\n Creating *something* that people are excited to buy. 🥹\n(http://buildfastcourse.com might have product-market fit..)
+L: yessir, no better felling than that. With your audience size you could excite even more people, by bringing them together in one place where they can interact with each other and help each other with the implementation of the knowledge you share.
+P: thats the goal 🔥
+A: I already purchased the course, but there's no invoice. Please check your email. I cannot dm you coz Twitter doesn't allow it.
+P: will send you invoice tn!
+F: I’ve sent a dm as I didn’t get any email yet, awaiting on it and super excited for the same.
+P: dmed
+Pk: Could you do country based pricing for the course?
+P: ya it is currently
+L: I'm already in! Excited for tomorrow!
+P: im super excited too! :D
+
+T:  Had dinner in nyc with a founder that created an AI app that does $300k+ MRR under 5 months (no ads/marketing $)\nGrit >> Previously failed 7 products w/ <100 users\nGrowth >> Guerilla marketing + WoM == 📈\nRelationship >> Finding someone that understand the startup life is 🔑
+M: 👀 why do soloprenuers not try to grow through ads?
+P: they wanted to focus on the product first
+N: I am interested more in networking with such people to be honest. I can learn so much .
+P: i hate networking, i just enjoy building and eating
+S: The real question is how can you visit the most average food place in nyc
+P: the food was really good (Her Name is Han)
+
+T: Plan for the Summer:\nShip 50+ cool lil' AI apps\n(Shipping Szn 🤠🪐)
+A: Wow, 50 looks like it is possible to launch but impossible to promote them and get clients.
+P: purely for fun + learning
+
+T: New Challenge:\nAutomate generating transcripts & subtitles for all the videos on http://buildfastcourse.com. 🎥\nTrying a combination of @zapier and custom code on my Django server\n(Zapier has a 100Mb file limit so need custom code here..)
+A: Oh, is Zapier having the 100mb limit? I was trying to use Zapier publish YouTube video, thought the limitations was set by YouTube
+P: ya there is 100mb file limit
+C: Any promo codes on course?
+P: DM me, there is some parity pricing for some countries
+H: You can also try whisper-jax api super awesome and accurate. Used it recently on a client project
+P: Ahh thanks for the suggestion
+
+T: I'm rlly inspired by ambitious projects that were built fast:\n> The Eiffel Tower. (2 yrs)\n> Disneyland (366 d)\n> Empire State (410 d)\n> Javascript (10 d)\n> iPod (290 d)\n> Amazon Prime (42 d)\n> Git (17 d)\n> Xerox Alto (120 d)
+G: JavaScript is a good one, actually incredible\nTesla Shanghai Factory (168 d)
+P: wow 168 for an entire factory is incredible
+D: The construction of the Eiffel tower—yes. But the idea was being developed long before the construction.
+P: did not know that, interesting
+M: Covid Vaccine
+P: Fastest vaccine developed right?
+
+T: A fine gentlemen in the BuildFast Community (http://buildfastcourse.com) is trying to automate his conversations with his girlfriend\nthis is either 200 iq or mans gonna find all his stuff outside.. 😆
+Y: All fun and game until she says I like the new you 👀
+P: im dead 🤣
+K: Which LLM model do you recommend for this use case
+P: I would suggest GPT-4 but we can't fine-tune it yet :( So GPT3.5 for the time being.
+G: Great way to build trust 😂
+P: just hope she doesnt find out
+L: The hero we need 🙌🙏
+P: 🫡
+
+T: Wow.. I found myself on a w-w-webinar (seminar on the webs) 🤓
+M: Can I have your autograph ✍️
+P: 🤣
+
+T:  touched grass today\nwent biking around Central Park w/ a few friends today 🚴‍♂️🚴‍♂️🚴‍♂️
+L: Didn't know NYC was that beautiful 🤯
+P: its rlly nice in the summer
+M: taking in that good air quality
+P: lungs were happy with the air yesterday
+M: New York is extra beautiful today
+P: if ur in the city, we should get dinner sometime!
+K: it's summer we need more muscles
+P: roids coming soon
+
+T: No grudge against no-code (I love@zapier)\nBut imo the most valuable skills in the next decade will be:\n1)	Code\n2)	 Copywriting\nP.S - Free Guide to Start → http://startcodingwithai.com
+J: been enjoying The Gary Halbert Letter. just finished "The Lazy Man's Way to Riches" so thanks for recommending!
+P: Ive been reading through Breakthough Advertising and its fantastic, we should start a gc to talk about our copywriting learnings!
+Z: Imo nocode is the best introduction to development logics  for non tech\nLearnt a lot because of nocode tools
+P: agreed, can carry the system thinking to coding
+T: Dev who knows copywriting is like a superman 💪
+P: 1000x eng
+A: Coding has always been a important skill to have since decades
+P: more important now imo
+
+T: Currently learning a bit of everything. 📚\nWhat are you guys reading?
+R: Human Compatible by Stuart Russell is an amazing book. Learning a lot about the begging of AI and how and when superhuman intelligence will be available.
+P: This looks super interesting, writing it down.
+Y: Which is your best read recently, Peter? 😁
+P: Breakthrough Advertising (copywriting)\nPsycho-cybernetics (mindset)\nStoryworthy (how to tell good stories
+L: I see you are into copywriting huh.\nI am reading Great Leads right now.
+P: Someone recommended Great Leads and I was inbetween reading that as well\nBeen obsessed with copywriting for a while :D
+J: Scientific Advertising by Claude C. Hopkins
+P: Fantastic read :)
+
+T: the official breakfast for ai threadbois 🥇
+M: Pizza and eggs high protein let’s go. What’s your ig I’ll follow
+P: high protein and carbs ;)
+A: An MVP breakfast
+P:  only the best
+D: my man is even drinking la croix now haha... got is from sam as well?
+P: nah started before binging all his stuff..\nit helped my soda addiction though :D
+
+T: "The Complete Bozos Guide to Document Loaders in@LangChainAI\n• Document Loader basics\n• When to use Document Loader\n• Import data from Text & CSV\n• Loading data from Discord, Notion, Telegram
+A: Any resource on how to load data from reddit?
+P: there is a reddit loader on langchain
+B: what happened to the promise of updating http://buildfastcourse.com course ?? Did you abandon it or what
+P: wym, it launched a few weeks ago. adding more videos by next week.\nyou should have access if you already purchased!
+
+
+T: Hard lesson I'm learning this year:\nDoing less.
+A: The hard part sometimes is picking a direction
+P: i was just talking to a friend about this.\nfor me, i give myself a certain amount of time to try a certain idea with clear success/failure thresholds, if failure then move on to new direction
+R: Making space for free time allows for moments of spontaneity, thus increasing creativity.
+P: yup, i've found i have the best ideas when im bored
+D: See you’ve been watching some sam ovens videos 😜
+P: binged watch all LOL
+
+T: No filter\nNYC turned into Mars today 🪐
+M: Heard its diablo 4 release campaign  titled "welcome to hell"
+P: 11/10 ad
+Pe: Is this for real?
+P: ya, bad fires in canada, the entire city is yellow
+M: It's like living in Mars! Fr
+P: spooky times
+U: WoW!
+P: lungs are dying
+
+T: How to fit relevant data into LLM context window:\nTwo options:\n• Chunk up text, store as embeddings, retrieve\n• Use LLM with larger context window like Claude (100k context window)\nmonsieurBoutte in the BuildFast Community (http://buildfastcourse.com) answered it perfectly here:
+Pj: How can I access ? I payed the day you launched but I have not received any email about the starting or the credentials (only the stripe mail with the payment confirmation )
+P: you should have gotten an email with title Welcome to BuildFast on May 27\nsend deets to support@buildfastcourse.com and i'll check!
+R: In ReAct based agents even if the input context fits, intermediate steps may throw max size limit. Any suggestions on that or alternative?
+P: can you add extra prompting to make the outputs smaller?
+H: Where can I find the link to join the Discord/Slack?
+P: it should under the first video!
+
+T: "AI thought leader"\nmy ego is already way too inflated to get messages like this 🤣
+L: Peter "the AI thought leader" Wang 🫡
+P: all this ego boosting cant be healthy LOL
+J: They know how to get you 😏
+P: just give me a glass of rose over some steak and i'll prob go through with it ;)
+D: Our boy reached thought leader status 🫡
+P: releasing a book: How to Shitpost your way to a thought leader
+
+
+T: Here's my plan to learn 80% of Cognitive Psychology in 10 hrs:\n- asked Chatgpt (w/ browsing enabled) for blog/youtube/book recommendations\n- go through any of the additional references mentioned in the resources from step 1 (basically breadth first search)
+Pd: i asked chatgpt to give me some references and it hallucinated them ! got 404 on all of them. I shouldn't be surprised but i was surprised 😀
+P: try again! ;)
+Th: This is so smart Peter. 👏🏼
+P: thanks!! 99% ppl seem to stop learning after college so seems like rlly good opportunity to get ahead
+A: It would be better if you teach that to the babyagi4all with victor db
+P: guess im the AGI now
+
+T: Use-cases for fine-tuning:\n1)	Sentiment Analysis\n2)	Text Generation: chatbot that responds in a specific tone or style based company's guidelines.\n3)	Fake News Detection: Models can be fine-tuned to detect fake news or misinformation by training them dataset of fake news.
+A: Is is possible to fine tunning a model that generates code to follow specific archetipes of development?
+P: ya, might take a lil work though
+
+T: "The Complete Bozos Guide to Fine-tuning"\n• What is Fine-tuning?\n• How to Fine-tune a custom LLM.\n• When should we use fine-tuning?\n• When NOT use use fine-tuning?\nSave This ↓
+E: Are slide presentations hot again? Didn't get the memo.
+P: im making them hot ;)
+C: Great explanations, thanks!
+P: glad it helped! :)
+V: Just want you to know how appreciated these threads are 🫡 always look forward to reading through these
+P: Thanks Victor! DM if you have anything you want me to cover! :)
+
+T: New personal learning experiment:\n→ Investing 10 hrs a week learning a total new subject. (watching YT vids & reading through college textbooks)\ngonna start w/ cognitive psychology this week.
+J: yess! started doing something similar but they're weekly email courses that I have ChatGPT write\nand they're short, like 10-15mins per day and go M-F
+P: this is a really good idea, i may have to do it.. :o
+Pa: What’s the first subject you are planning to learn?
+P: cognitive psychology this week.
+M: I used to do this, before chatGPT I would use tutors. You can find some great tutors for like $10 (for example ppl with actual law degrees)
+P: this is rlly smart, hire people off upwork like college students. i'm gonna do this
+
+T: Are You Moving the Boat Faster? 🚣
+S: using the boat analogy, another good one is to stop the boat from sinking.\nI do a decent amount to speed up the boat while failing to neglect that I waste an absurd amount of time on social media/entertainment\nconstant struggle tbh, haven't figured it out 🤣
+P: ya that's probably #1 priority, not turn into titanic :D
+L: Get to the essence. What’s the most direct route to your grand vision. Focus on this, forget all else
+P: exactly!
+K: How do you create these screenshots?
+P: typeshare!
+
+T: I decline all coworking invites 😰
+N: I think it helps once in a while to get out of a rut
+P: i like getting out, i just hate the half play/half work inefficiency :D
+D: Can't imagine how sad the other guy must have felt
+P: 🤣🤣 dont worry about him bro
+M: I've never went to coworking unless it's 5mins from where I live, then it's fine
+P: coffee shops r nice, if you're going solo :D
+
+T: Retrievers in@LangChainAI  are surprisingly powerful.\n• Basic info on Retrievers\n• Index vs Retriever\n• When do you need a Retriever?\n• Retriever examples\n(All you need to know in under 6 tweets.)\nSave This ↓
+B: I thing bro you misunderstand idea of graphics
+P: the more the merrier
+G: Got a thread on memory?
+P: here ya go!
+
+T: Been doing 15 hr days for the past 3 weeks.\nHappy to just take a day off and enjoy Spring in NYC :)
+J: Enjoy it dude!\nYou've been killing it recently. Definitely some well deserved time off.
+P: Thanks Jack! Wishing I was traveling as much as you! :D
+N: SEA✈️NY!\nAre you currently nomading or do you have a home base?
+P: currently based in nyc, might do some nomad stuff later this year!
+Tr:  How do you manage 15hrs a day ?
+P: liking the work tbh otherwise prob would have burnt out, making sure i take mini breaks through the day too
+
+T: That's a wrap.  🌯\nLmk what's the biggest problem you guys are having and I'll cover it.P.S: This langchain series is coming to an end, gonna do LLM deep-dive Series starting next week.
+Ph: Looking forward to the LLM deep-dive series! As for the biggest problem, I think many are struggling with adapting to the new remote work environment. Sharing some tips on how to stay productive and connected could be helpful.
+P: interesting topic, i've been thinking about it too, will write a essay on it
+G: got a thread about how one can leverage OpenAI or PaLM on top of these embeddings? Does it help in any way?
+P: will write a thread on this
+H: Great read 😍👍
+Q . Peter does it make sense to use a vector database to store transcripts of audio files so we can reuse them for Blogs\nIf not then what do you think 🤔 which approach will work best
+P: whats the use case of the audio files?\nif you need it for semantic search ya, if its just basic store and display, a relational db is fine
+
+T: Vector databases may be the next "big thing"\n• Vector databases explained\n• What is Unstructured data?\n• When to use vector databases\n• Embeddings.\n• Use-cases\nAll you need to know in under 10 tweets.\nSave This ↓
+W: the chat with csv pdf seems to be a boring use of AI now imo and due to current context limits
+P: ya, basically the todo list of the AI world but it has a lot of important concepts
+A: Great work distilling the topic down!
+P:  glad it helped!
+V: you have some tutorial in pdf or vídeo with all that informations? I see you page but i dont found..
+P: will add these in the future!
+
+T: What Sucks Now?
+K: I need to resume #3, it's beyond important, not just for focus. It awakens the psychic body and makes intuition a lot better, and gives us insights on how to improve our lives, on top of relaxing the nervous system to facilitate healing both physical and emotional.
+P: exactly, the first few weeks of meditating were really hard but i felt it helped with my scattered thoughts all the time
+J: would love to hear more about your copy-work!\nare you doing Sam's course?
+P: i've done it b4! will write post about the copywork i do but i basically just handcopy from other good copywriters
+F: I do a lot of media-ting: I just consume media on Twitter for 20 min, it's shockingly easy and ruins my focus 😅😝\nBut seriously good behaviors you listed, yes
+P: :D ya i had to delete twitter off my phone, way too distracting
+A: Is studying copywrite even worth it? Chatgpt is just a godly copywriter
+P: yes, fundamental skill imo to getting anything in life
+
+T: Chilling in Seattle for a few days.\nWhat are some must-eat spots?
+S: Shrimp cocktail at pike place market
+P: thx for the recc!
+F: First ever Starbucks 😀 or Anything at public market
+P: there was a huge line!
+A; How is the weather over there ?🤔
+P: its cold and gloomy.. as usual :D
+S: Try Serious Pie for the most amazing pizza
+P: thanks for the recc! :)
+
+T: People may disagree, but...\nIMO, only having one monitor increases focus. 😬
+K: I found this the hard way after scaling up to 4. Definitely too much to get started, but useful in the heat of the moment when already in the flow.
+P: 4 is nuts!
+R: Bro has a Razer m ouse for coding (+$9000 MRR)
+P; need the pixel precision 🤣
+O: Bro which technology stack you use in your apps? React?
+P: django vue
+N: Agree, switched back and forth between 1 and 2.\n1 is better for both productivity and coding imo
+P: less context switch 🔥
+
+T: My prediction on software:\nMore copycats
+B: I think switch cost + network effects will play a big role. Thoughts?
+P: most of the AI apps can be switched out pretty quick, don't think switching cost will be a factor.\nnetwork effect i agree with. can keep people if there is a sense of community
+S: Imo: it will be easier to make mediocre software.\nBuilding an mvp will take a day. But real scale issues and more complicated problems are quite challenging for AI at the moment (actually impossible)
+P: imo most apps shouldn't even have to worry about scale especially with how flexible cloud compute is these days. i would argue most business/software have a problem of acquiring/retaining users
+M: I think that not only finding the right idea is the challenge but rather that distribution will be even more the indicator for success.
+P: 90% distribution, 10% product :D
+L: sounds accurate. Well, let's get better at marketing before it's too late 😂
+P: fk marketing week, its gonna be marketing year
+
+T: it only goes downhill from here
+M: Nice! Time to have a company party 🎉
+P: business expense
+J: Solid flex. 💪😂
+P: negative flex
+Ta: Mercury ❣️
+P: the card is so light 🔥
+Y: Is that what I think it is?
+P: it is sir
+
+T: Use-cases for fine-tuning:\n1)	Sentiment Analysis\n2)	Text Generation: chatbot that responds in a specific tone or style based company's guidelines.\n3)	3) Fake News Detection: Models can be fine-tuned to detect fake news or misinformation by training them dataset of fake news.
+A: Is is possible to fine tunning a model that generates code to follow specific archetipes of development?
+P: ya, might take a lil work though
+
+T: Finally, we call the LLM with:\n• chat history\n• user input\n• relevant docs\nTo get our final answer.
+A: Great explanation, but still not clear for me if an LLM (eg. gpt-4) gets chat history, user input (both text) and relevant docs ( some similar embed vectors created with an ada model and stored in a vector store), how does it convert embed vectors back and uses it in the context?
+P: will write a thread about this.
+S: Gold. I am doing something similar in PHP land.\nOne question: Chat History + User Input can easily exceed the token limitation of the LLM(OpenAI API).\nHow do you dynamically solve that?
+P: think you need to pre-process the data and summarize it
+
+T: "How to Create Your Own Personal Chatbot (without ripping your hair out)"
+I've broken it down into bite-size chunks.
+D: Nicely explained, has anyone here experimented with using Elasticsearch to store vectors?
+P: pls lmk if you try it!
+L: How do you split the text? How many characters per vector and how much "overlap" between vectors?
+P: https://python.langchain.com/en/latest/modules/indexes/text_splitters/examples/recursive_text_splitter.html\nRecursive text splitter is the recommended one for regular text. have to play around with chunk size/overlap
+N: Thx for taking the time to break this down bro. I'm completely non-technical but going to attempt to build something like this to see if I enjoy it.  Wish me luck lol
+P: glad it help!\nDm me if you need anything else covered!
+
+T: How to Launch Fast:\n1)	Collect payments before product is complete.\n2)	Promise customers a tight deadline.\n3)	Work 10 hrs a day stressing not meeting the deadline.\n4)	Profit.
+E; Why not just decide to work fast and hard without taking on the risk? Getting the money early but not having time to use it is kinda pointless too 😂
+P: cuz its risking building something no one wants
+Pd: yes #3 is highly underrated but the most important part for delivering the product 😉
+P: very true
+C: Sounds calm
+P: quite the opposite
+Y: What do u use for ur course
+P: kajabi for hosting
+
+T: Everything you need to know about Prompts in@LangChainAI:\n• Basic Information\n	• Example Prompts• \nOutput Parser
+M: Really cool.\nThanks for sharing
+P: glad it helped!
+J: these visuals are so fuking helpful
+P: thank you sir!! what else would you like to see?
+R: Your account is the AI bible.
+P: thats the goal
+R: Thanks so much for your tutorials. I build a small movie recommendation agent using babyAGI in python.
+P: Dope, can you send me the github if its open sourced?
+
+T: I just hit 10k followers in 5 months.\n• 0>1000: 3 months\n• 1000>10000: 2 months\n😼 Biggest tip is to consistently tweet enough value that people put up with your sh*tposting.
+J: You've been crushing it!
+P: Thanks bro!! You as well! :)
+M: Congrats Peter! Love the visualization with the stadiums
+P: thank you good sir! :)\nit's crazy how many ppl 10k are!
+C: the last part is my favorite 😂
+P: 😂😂
+Z: Congratulations Peter! People love your builds. The tinder flow is really fun.
+P: I stg if I'm known for that im gonna die LOL
+
+T: All you need to know about LLMs:\n• Overview\n• Using LLMs in\n• Using open-sourced LLMs\n• Chat Model\n• How do we embed text?
+A: Gold-standard content Peter! Keep inspiring 🫡
+P: Thank you sir!
+A: Nice diagram
+P: ty good sir
+Av: Hey Peter ! Love your LangChain tips and sharing . Thanks for constantly doing so .
+P: thank you good sir! got better ones coming!
+R: Your are the real MVP!! Thanks
+P: 🫡 here for you sir
+J: Beast of an informational thread. Great job!
+P: Thank you sir!
+
+T: wasn't going to share this but...\nI managed to raise $500k for my AI Abs startup with this setup
+R: Is this a new fad to stay concentrated and get shit done or something like that ?
+P: yes
+N: Lot of room to do situps in that room. Good job.
+P: the door is long enough to do pull ups too!
+A: Looks familiar 🤣
+P: no it doesnt sir
+Z: Holy Peter! I have to zoom in so hard to see if this is AI generated. 😆😆
+P: HAHA, what if i told you.. it was ;)
+Ne: So I need to empty my room? Gotcha.
+P: yep, do it asap
+
+T: This just happened, someone:\n1)	Bought at $95 a few weeks ago.\n2)    Asked for refund (I gave the refund.)\n3)    Bought again at $147.\nhttp://buildfastcourse.com might have product-market fit..
+D: Looking forward to the course. Let me know if there anything I can do to help
+P: Thank you good sir! 💪
+L: We need more customers like that, the better!
+P: haha exactly!
+S: Oh I subscribed but never saw the $95 offer. But worth it at any price point. Thanks
+P: Thank you good sir, it will be worth it.\nAdding more and more content until its the #1 course in AI💪
+M: Can't wait for the course to come out
+P: working hard on it!
+
+T: Everyone's been asking for it.\nHere it is. I've broken it down@LangChainAI Agents into bite-size chunks.\n• Agents Basics\n• Tools\n• Agent Executor\n• AutoGPT\n• BabyAGI
+M: Been reading the docs/manual on site. This mind map flow is awesome.
+P: Thank you good sir!
+H: Thank you for sharing Peter!
+P: Glad it helped!! 🔥
+M: Nice work. An agent can also be a tool.
+P: Meta 🤯
+R: Hey, thanks for sharing, i was working on one myself, saved a lot of time.
+P: Thank, dm yours when your done! would love to take a peek!
+W: What do you use to make these flowcharts? They’re beautiful!
+P: Mind Meister!
+
+T: This is bonkers. 🤯\n1)	Type in Prompt\n2)	 🎨 @tailwindcss Component is returned w/LangChainAI\n3)	 Chat and Update design w/streamlit 💬
+L: This is amazing! I'm curious if it can handle complex layouts.
+P: think it can with better prompting + agents
+S: interesting.  done by prompt?
+P: yeah prompting, experimenting with making it more advanced with agents
+S: mind sharing what agents will be used for in this case?
+P: Playing around with zero-shot-react-description
+K: is there a way to try it out?
+P: improving this, will launch it in a few days/week!
+
+T: Memory in@LangChainAi is a big deal.\nIt was a lot to go through, but I broke it into bite-size chunks.\n• 4 Memory Types Explained\n• How to use Memory in a Chain\n• How to add Memory to an Agent
+S: Sometimes i forget how powerful langchain is
+P: It's pretty amazing 🔥
+A: do you consider knowledge graphs to be memory or something else?
+P: You're referencing this? https://python.langchain.com/en/latest/modules/memory/types/kg.html?highlight=%20knowledge%20graphs
+F: How does it work with multiple users?
+P: what would be the use-case?
+H: Great work. Off topic, but what is the best way to host langchain based chat API to be used in android app and website.
+P: Don't think there's anything special, you would just call the API in the code.
+
+T: People may disagree, but...\nIMO, only having one monitor increases focus. 😬
+K: I found this the hard way after scaling up to 4. Definitely too much to get started, but useful in the heat of the moment when already in the flow.
+P: 4 is nuts!
+F: Dude just get 1 huge monitor like this 😂
+P: thats nuts lol 🤣🤣
+Z: Tempting
+P: wtf its so large LMFAO
+G: looks a bit like a pin board!
+P: it tis ;)
+
+T: A bit late.. but@sequioa finally reached out.\nSee ya guys at the top.
+J: Super congrats Peter 👏
+P: Thank you Jay!!
+S: This is build in public in next level 👌🏼🎊
+P: Hahaha thanks Sai!
+A: Congrats! The pitch was hilarious
+P: Glad you liked it! ;)
+C:It says $100 million should hit by Tuesday
+P: close, a lil higher
+L: this app has so much potential good luck 🔥
+P: glad you see the potential good sir!
+T: recording some goodies for http://buildfastcourse.com\nbought the best@shure mic ($249), so at least the audio will be 🔥
+M: I’ve just paid half of the mic’s cost 😍😍
+P: thank you good sir 🫡
+C: Cool, that sock is the most creative way of 10X-ing the audio quality 🧦🎙️
+P: 10x sock 🤣
+O: Do you have an affiliate link for the sock?
+P: might audition it off
+L: Curious about how much socks can improve echo cancellation?😅
+P: "The microphone sock acts like a filter to absorb the unwanted sounds to that they cannot penetrate into the microphone and be recorded."
+Ma: have you tried out Adobe Podcast's new voice enhance? Even with a poor mic the audio can be enhanced to pretty interesting. (not a shill or anything, just cool new AI tech)
+P: have not, will put it on my todo list!
+
+T: I'm furiously working on some new wacky ideas..\nShare your workspace ↓ 👀
+A: The viewwwww 😮‍💨
+P: not too bad eh
+M: It's so cool seeing everyone's setups from around the world 🌎
+P: mr worldwide
+F: Is that pizza gluten free?
+P: no, extra cheese extra fat
+D: What kind of pizza is on todays menu?
+P: spinach and pineapple
+
+T: 14/ 👀 What I'm working on next:\nFeature to copy design styles from other websites..\n(Will release this in a few days!)\nLmk any other possible features!
+L: Can’t wait to learn all this in your course next month.\nMy birthday is May 29th, what a gift the course release will be on 27th🤩🙌🏻
+P: LFGGG, the ultimate gift ;)
+J: im working on something similar. Loved these abs do not exist btw 🫠 lets to chat sometime
+P: sureee dm
+A: Thank you very much for your understanding Peter, it's really nice of you. You'll see, I'll retweet a lot of your writings as I just did, we have very similar interests.
+P: No worries!
+
+T: Just hit 30 sales!\nRaising prices to $95 (30 LEFT)
+E: selling picks and shovels 👀
+P: i only sell the best shovels
+M: Congrats! Do you have any sample videos (not from the course) that you might have shared in the past?
+P: haven't made any video tutorials yet, planning to make youtube next month!
+M: Cool! For this course, are you planning to leverage@streamlit for the projects?
+P: That's the current plan! Any opinion for or against it?
+T: what are you selling?
+P: Course teaching how to build AI projects (http://buildfastcourse.com)
+
+
+
+
+
+
+
+
+
+
+
